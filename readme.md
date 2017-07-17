@@ -3,8 +3,8 @@ ShareLinkAndPixelIt
 
 ## What is it about?
 
-You want to share a link to some great external content (i.e., that you don't own) on your Facebook page, let's say http://sitetoshare.com/coolarticle17.
-People clicking on this website will be ... lost! This is sad because these people are probably interested by the topic you're posting about, and could be potential customers for your page/business! Indeed, they are **good candidates** for a high conversion rate retargeting campaign.
+You want to share a link to some great external content (i.e. not on your own website) on your Facebook page, let's say http://sitetoshare.com/coolarticle17.
+People clicking on this link will be ... lost! This is sad because these people are probably interested by the topic you're posting about, and could be potential customers for your page/business! Indeed, they are **good candidates for a high-conversion retargeting campaign**.
 
 It would be wonderful if people clicking on these links could visit *your famous Facebook pixel* very shortly before visiting the actual link. Then we could build a **retargeting campaign** based on this audience!
 
@@ -21,7 +21,7 @@ This is the task performed by **ShareLinkAndPixelIt**.
 
     http://example.com/re.php?url=http://sitetoshare.com/coolarticle17
     
-It will be displayed on Facebook as if you shared the original link directly, but there's a huge benefit: by clicking on this link, your Facebook Pixel will track this visit. Then it can be used for a **retargeting campaign**.
+It will be displayed on Facebook *as if you shared the original link directly*, but there's a huge benefit: by clicking on this link, your Facebook Pixel will track the visit! Then it can be used for a **retargeting campaign**. Win!
 
 ## Improvement
 
